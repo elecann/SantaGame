@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7f2e60cb6927a18459fdf5e75bab7df7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - livesText: {instanceID: 0}
+  - gameController: {instanceID: 0}
+  - starPrefab: {fileID: 2603564611673025839, guid: 7448037ca2be90147ab022f580e1af53, type: 3}
+  executionOrder: 100
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
